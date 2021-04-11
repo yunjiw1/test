@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CS 122B Project 1 API example
 
 This example shows how frontend and backend are separated by implementing a star list page and a single star page with movie list.
@@ -94,3 +95,6 @@ The name of star is generated as a link to Single Star page.
 - In both `SingleStarServlet.java` and `StarsServlet.java`, a private DataSource reference dataSource is created with `@Resource` annotation. It is a reference to the DataSource `jdbc/moviedbexample` we registered in `web.xml`
 
 - To use DataSource, you can create a new connection to it by `dataSource.getConnection()`, and you can use the connection as previous examples.
+=======
+# test
+>>>>>>> fc2a4a097ec1d11d577524b4b3b192a5e584bbfc
